@@ -80,10 +80,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/armandpetit)
 - 📬 armand_petit@outlook.fr
-
----
-
-<!-- profile visitors -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=armandpetit&label=Profil%20views&color=0e75b6&style=flat" alt="profil views" />
-</p>
