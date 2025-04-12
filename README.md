@@ -78,9 +78,8 @@
 
 ### 📫 Me contacter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/armandpetit) *(à mettre à jour si dispo)*
-- 🌐 [Portfolio](https://armandpetit.dev) *(optionnel si tu en as un)*
-- 📬 armand[at]example.com *(remplacer par ton mail si tu veux)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/armandpetit)
+- 📬 armand_petit@outlook.fr
 
 ---
 
