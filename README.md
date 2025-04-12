@@ -22,16 +22,18 @@
 ### 🧰 Stack & Outils
 
 #### 🖥️ Frontend  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)  
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)  
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)  
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier)
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite" />
+  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier" />
+</p>
 
 #### 🧪 Backend  
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python)  
