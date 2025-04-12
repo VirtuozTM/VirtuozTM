@@ -13,9 +13,14 @@
 - 📱 **Spécialité** : Développeur **React Native FullStack**  
 - 🧠 **Expérience** : +5 ans dans le développement mobile  
 - ❤️ **Centres d’intérêt** :
-  - Expérimenter avec les **animations avancées** (🎞️ Reanimated, Skia)
-  - Rendre les apps **accessibles** (VoiceOver, TalkBack, etc.)
-  - Intégrer du **hardware** : NFC, BLE, haptics, paiement mobile
+  - 🎞️ Animations avancées : créer des expériences utilisateurs fluides et immersives avec Reanimated, Skia, Moti, et Gesture Handler
+  - ♿ Accessibilité : rendre chaque app intuitive et inclusive grâce à VoiceOver, TalkBack, dynamic type, accessible props et navigation clavier
+  - 📡 Intégrations hardware : connecter l’univers physique au digital avec NFC, Bluetooth / BLE, vibrations & haptics, sensors, et paiement sans contact
+  - 📲 Expérimentation multi-plateforme : exploiter au maximum Expo SDK, EAS, les app clips, widgets iOS, ou wearables Android
+  - 🎯 Performance mobile : optimiser le rendu et le temps de réponse grâce à profiling, rendering strategies, FlatList tuning, JS threading
+  - 🔐 Sécurité mobile : authentification biométrique, SecureStore, Keychain, JWT, chiffrement des données locales
+  - 🔄 Expérience offline-first : gestion du cache, synchronisation différée, SQLite, MMKV, et NetInfo
+  - 🧪 Expérience développeur : set-up de projets ultra clean, usage de Zustand, TanStack Query, React Hook Form, Lottie, Storybook, etc.
 
 ---
 
