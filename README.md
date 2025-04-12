@@ -22,23 +22,11 @@
 ### 🧰 Stack & Outils
 
 #### 🖥️ Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite" />
-  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css) ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier)
 
 #### 🧪 Backend
-<p align="left">
+
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js) ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat-square&logo=graphql) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-</p>
 
 #### 🗄️ Database  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
