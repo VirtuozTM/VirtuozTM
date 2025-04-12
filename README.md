@@ -35,30 +35,19 @@
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier" />
 </p>
 
-#### 🧪 Backend  
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat-square&logo=graphql)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+#### 🧪 Backend
+<p align="left">
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js) ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat-square&logo=graphql) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+</p>
 
 #### 🗄️ Database  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 
 #### 🚀 CI/CD & DevOps  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)  
-![Expo EAS](https://img.shields.io/badge/-Expo%20EAS-000?style=flat-square&logo=expo)  
-![Hostinger](https://img.shields.io/badge/-Hostinger-673de6?style=flat-square&logo=hostinger)  
-![SFTP](https://img.shields.io/badge/-SFTP-222222?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions) ![Expo EAS](https://img.shields.io/badge/-Expo%20EAS-000?style=flat-square&logo=expo) ![Hostinger](https://img.shields.io/badge/-Hostinger-673de6?style=flat-square&logo=hostinger) ![SFTP](https://img.shields.io/badge/-SFTP-222222?style=flat-square)
 
 #### 🛠️ Version Control  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
