@@ -1,30 +1,29 @@
-<h1 align="center">Salut, moi c’est Armand 👋</h1>
+<h1 align="center">Hi, I'm Armand 👋</h1>
 
 <p align="center">
-  <em>Développeur FullStack passionné par le mobile, l'accessibilité et les intégrations hardware.</em>
+  <em>Mobile developer passionate about React Native & Expo</em>
 </p>
 
 ---
 
-### 👨‍💻 À propos de moi
+### About me
 
-- 🎯 **Nom** : Armand PETIT  
-- 🎂 **Âge** : 25 ans  
-- 📱 **Spécialité** : Développeur **React Native FullStack**  
-- 🧠 **Expérience** : +5 ans dans le développement mobile  
-- ❤️ **Centres d’intérêt** :
-  - 🎞️ Animations avancées : créer des expériences utilisateurs fluides et immersives avec Reanimated, Skia, Moti, et Gesture Handler
-  - ♿ Accessibilité : rendre chaque app intuitive et inclusive grâce à VoiceOver, TalkBack, dynamic type, accessible props et navigation clavier
-  - 📡 Intégrations hardware : connecter l’univers physique au digital avec NFC, Bluetooth / BLE, vibrations & haptics, sensors, et paiement sans contact
-  - 📲 Expérimentation multi-plateforme : exploiter au maximum Expo SDK, EAS, les app clips, widgets iOS, ou wearables Android
-  - 🎯 Performance mobile : optimiser le rendu et le temps de réponse grâce à profiling, rendering strategies, FlatList tuning, JS threading
-  - 🔐 Sécurité mobile : authentification biométrique, SecureStore, Keychain, JWT, chiffrement des données locales
-  - 🔄 Expérience offline-first : gestion du cache, synchronisation différée, SQLite, MMKV, et NetInfo
-  - 🧪 Expérience développeur : set-up de projets ultra clean, usage de Zustand, TanStack Query, React Hook Form, Lottie, Storybook, etc.
+I enjoy turning complex ideas into simple, smooth, and reliable user experiences.
+
+Some areas I focus on:
+- **Animations** – using Reanimated, Skia, or Moti to make interfaces feel alive and fluid  
+- **Accessibility** – making sure apps work for everyone with VoiceOver, TalkBack, and proper accessible props  
+- **Hardware integrations** – NFC, Bluetooth/BLE, haptics, sensors, and contactless payments  
+- **Cross-platform features** – app clips, iOS widgets, Android wearables, and full use of the Expo SDK  
+- **Performance** – profiling, optimizing lists and rendering strategies, and keeping apps responsive  
+- **Security** – biometrics, secure storage, encryption, and strong authentication flows  
+- **Offline-first** – caching, background sync, SQLite/MMKV, and resilient network handling  
+- **Developer experience** – clean project setups with Zustand, TanStack Query, React Hook Form, Storybook, and more
+
 
 ---
 
-### 🧰 Stack & Outils
+### 🧰 Stack
 
 #### 🖥️ Frontend  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css) ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier)
@@ -54,13 +53,7 @@
 
 ---
 
-### 🎯 Ma philosophie
-
-> **"Créer des apps utiles, élégantes, accessibles et bien architecturées."**
-
----
-
-### 📫 Me contacter
+### 📫 Contact me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/armandpetit)
 - 📬 armand_petit@outlook.fr
