@@ -22,7 +22,7 @@ Some areas I focus on:
 
 ---
 
-### 📫 Contact me
+### Contact me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/armandpetit)
-- 📬 armand_petit@outlook.fr
+- [LinkedIn](https://www.linkedin.com/in/armandpetit)
+- armand_petit@outlook.fr
